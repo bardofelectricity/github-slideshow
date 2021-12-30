@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+# What *solenoid* is failing me now? ## **keyless _entry_ code** has been ~~redacted~~
 Use the left arrow to go back!
